@@ -64,5 +64,6 @@ sudo cp "star_$domain.cer" /mnt/c/cert/$domain
 ```
 ![Copy certs](https://github.com/madsd/articles/blob/master/images/copyCerts.png)
 
-Enjoy!
+### Enjoy!
+
 ![Explore certs](https://github.com/madsd/articles/blob/master/images/explorerCertificates.png)
